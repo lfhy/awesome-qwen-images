@@ -35,19 +35,15 @@ Have any great ideas? Feel free to open an issue for discussion 😊
 
 **Prompt (English translation of Chinese prompt):**
 
-<pre style="white-space: pre-wrap; word-wrap: break-word;">
-<code>
+```text
 Generate a highly detailed, completely realistic photo using an image editing tool, showing a real girl cosplaying this illustration at a convention. Adjust the facial features ratio to make it more natural. Exactly replicate the same eye state (summarize whether the character's eyes are open/closed/winking in the original illustration and fill it in here), face shape, skin tone, facial expression, pose, and camera framing as in the original illustration. Maintain the same tone, style, angle, viewpoint, and composition without any deviation.
-</code>
-</pre>
+```
 
 **Original Chinese Prompt:**
 
-<pre style="white-space: pre-wrap; word-wrap: break-word;">
-<code>
+```text
 用图片修改工具生成一张非常详细的完全真实的照片，一个真实的女孩在漫展 cosplay 这个插图，调整五官比例使其更自然。完全复制与原始插图中相同的(总结角色的睁眼闭眼状态填在这里，如睁眼/闭眼/wink)状态、脸型、肤色、面部表情、姿势和相机取景。保持同样的色调，风格，角度，视角，构图，不要有任何偏差。
-</code>
-</pre>
+```
 
 ### Example 2: [Illustration to Figurine]
 
@@ -59,19 +55,15 @@ Generate a highly detailed, completely realistic photo using an image editing to
 
 **Prompt (English translation of Chinese prompt):**
 
-<pre style="white-space: pre-wrap; word-wrap: break-word;">
-<code>
+```text
 Please change the main subject of this photo to figurine material. Place a box with the character's image printed on it behind the figurine. Add a computer next to the box with the Blender modeling process displayed on the screen. Add a circular plastic base in front of the box for the figurine to stand on. The PVC material of the base should have a crystal-clear, translucent quality, and set the entire scene indoors.
-</code>
-</pre>
+```
 
 **Original Chinese Prompt:**
 
-<pre style="white-space: pre-wrap; word-wrap: break-word;">
-<code>
+```text
 请将这张照片主体变为手办材质。在手办后方放置一个印有角色形象的盒子。在盒子旁边添加一台电脑，屏幕上显示Blender建模过程。在盒子前方添加一个圆形塑料底座，让手办站立在上面。底座的PVC材料应具有水晶般清澈的半透明质感，并将整个场景设置在室内。
-</code>
-</pre>
+```
 
 ### Example 3: [Add Watermark to Image]
 
@@ -83,19 +75,15 @@ Please change the main subject of this photo to figurine material. Place a box w
 
 **Prompt (English translation of Chinese prompt):**
 
-<pre style="white-space: pre-wrap; word-wrap: break-word;">
-<code>
+```text
 Add a text watermark to the image with the text "BY QWEN IMAGE". The watermark text color should be white with transparency. Position the watermark text at the bottom right corner of the image, with a size of one-fiftieth of the image resolution.
-</code>
-</pre>
+```
 
 **Original Chinese Prompt:**
 
-<pre style="white-space: pre-wrap; word-wrap: break-word;">
-<code>
+```text
 在画面加上的文字水印，水印文字为"BY QWEN IMAGE"，水印文字颜色为白色，带有透明度，水印文字位置为画面底部的右下角，大小为图像分辨率的五十分之一。
-</code>
-</pre>
+```
 
 ### Example 4: [Remove Watermark from Image]
 
@@ -107,19 +95,15 @@ Add a text watermark to the image with the text "BY QWEN IMAGE". The watermark t
 
 **Prompt (English translation of Chinese prompt):**
 
-<pre style="white-space: pre-wrap; word-wrap: break-word;">
-<code>
+```text
 Remove the watermark from the image
-</code>
-</pre>
+```
 
 **Original Chinese Prompt:**
 
-<pre style="white-space: pre-wrap; word-wrap: break-word;">
-<code>
+```text
 把画面的水印去掉
-</code>
-</pre>
+```
 
 ### Example 5: [Illustration to Decorated Car]
 
@@ -131,19 +115,15 @@ Remove the watermark from the image
 
 **Prompt (English translation of Chinese prompt):**
 
-<pre style="white-space: pre-wrap; word-wrap: break-word;">
-<code>
+```text
 Based on the input anime character image, generate a sports car image in a "decorated car" (also known as "痛车" in Japanese) style. Draw the anime character in high quality with vivid colors on the car body as a complete body wrap design, reflecting the typical "decorated car" design style. The character pattern should maintain the original style while adapting to the car's curved surfaces, with a natural and well-fitted composition that creates a realistic visual effect. Set the background at a well-known tourist attraction or landmark with ample natural lighting. Position the car appropriately with a clean and dynamic composition. Apply professional automotive photography styles with appropriate depth of field and lighting effects to naturally blend the vehicle with the pattern. The overall image should have strong visual impact and promotional appeal, suitable for fan-oriented promotion or tourism and cultural marketing.
-</code>
-</pre>
+```
 
 **Original Chinese Prompt:**
 
-<pre style="white-space: pre-wrap; word-wrap: break-word;">
-<code>
+```text
 基于输入的动漫人物图像，生成一张"痛车"风格的跑车图片。将动漫人物以高质量、鲜艳生动的形式绘制在跑车车身，作为完整的车身彩绘图案，体现出典型的"痛车"设计风格。人物图案需保持原作风格，同时适应车身曲面，构图自然、贴合，视觉效果逼真。背景为自然光线充足的知名旅游景点或地标，跑车摆放位置合理，构图干净富有动感。运用专业汽车摄影风格，适当运用景深和光影效果，使车辆与图案融合自然，整车画面具有强烈的视觉冲击力和宣传吸引力，适合用于粉丝向推广或旅游文化营销。
-</code>
-</pre>
+```
 
 ### Example 6: [Giant Transformation]
 
@@ -155,18 +135,14 @@ Based on the input anime character image, generate a sports car image in a "deco
 
 **Prompt (English translation of Chinese prompt):**
 
-<pre style="white-space: pre-wrap; word-wrap: break-word;">
-<code>
+```text
 Extract the main character from the image and apply "giant transformation" processing, making the character the same scale as the surrounding residential buildings, with a height comparable to the buildings, creating a strong sense of oppression and visual impact. Set the scene in a real-style residential community, surrounded by real buildings, roads, and green facilities, maintaining normal urban environmental proportions. Keep the character and background perspective consistent, using a low-angle upward shot to enhance the impact of the giant figure. The overall image should be rich in details, presenting photo-realistic quality, combined with cinematic lighting effects, such as dramatic shadows and strong light contrasts, to further enhance the atmosphere and visual performance, suitable for concept art, visual effects, or creative promotional materials.
-</code>
-</pre>
+```
 
 **Original Chinese Prompt:**
 
-<pre style="white-space: pre-wrap; word-wrap: break-word;">
-<code>
+```text
 将图片中的主体人物进行抠图并进行"巨人化"处理，使该人物与周围小区建筑处于同一比例，高度与楼房相当，营造出强烈的压迫感和视觉震撼。场景设定为一个现实风格的住宅小区，周围环绕着真实的楼房、道路与绿化设施，保持正常的城市环境比例。人物与背景视角保持一致，采用低角度仰视镜头，增强巨人形象的冲击力。整体画面细节丰富，呈现照片级真实质感，结合电影级灯光效果，如戏剧性阴影与强光对比，进一步提升氛围感与视觉表现力，适合用于概念艺术、视觉特效或创意宣传素材。
-</code>
-</pre>
+```
 
 [![Star History Chart](https://api.star-history.com/svg?repos=lfhy/awesome-qwen-images&type=Date)](https://www.star-history.com/#PicoTrex/lfhy/awesome-qwen-images&Date)

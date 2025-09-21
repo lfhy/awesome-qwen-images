@@ -1,3 +1,6 @@
+---
+cssclass: "code-wrap"
+---
 # Awesome Qwen Images ✨
 
 🎉 Welcome to the Qwen Image Gallery!
@@ -18,12 +21,12 @@ Have any great ideas? Feel free to open an issue for discussion 😊
 
 - [Awesome Qwen Images ✨](#awesome-qwen-images-)
   - [Examples](#examples)
-    - [Example 1: [Illustration to Cosplayer]](#example-1-illustration-to-cosplayer)
-    - [Example 2: [Illustration to Figurine]](#example-2-illustration-to-figurine)
-    - [Example 3: [Add Watermark to Image]](#example-3-add-watermark-to-image)
-    - [Example 4: [Remove Watermark from Image]](#example-4-remove-watermark-from-image)
-    - [Example 5: [Illustration to Decorated Car]](#example-5-illustration-to-decorated-car)
-    - [Example 6: [Giant Transformation]](#example-6-giant-transformation)
+    - [Example 1: \[Illustration to Cosplayer\]](#example-1-illustration-to-cosplayer)
+    - [Example 2: \[Illustration to Figurine\]](#example-2-illustration-to-figurine)
+    - [Example 3: \[Add Watermark to Image\]](#example-3-add-watermark-to-image)
+    - [Example 4: \[Remove Watermark from Image\]](#example-4-remove-watermark-from-image)
+    - [Example 5: \[Illustration to Decorated Car\]](#example-5-illustration-to-decorated-car)
+    - [Example 6: \[Giant Transformation\]](#example-6-giant-transformation)
 
 ### Example 1: [Illustration to Cosplayer]
 

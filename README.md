@@ -2,6 +2,8 @@
 
 🎉 欢迎来到 Qwen Image 图片精选！
 
+> [English version of this document is available here](README_en.md)
+
 这是一个精选的 Qwen Image 生成图像与提示词合集。借助通义千问团队开源的图像生成模型，全面展示 Qwen Image 在 AI 图像生成与编辑方面的先进能力，并不断探索创意表达的新可能。
 
 案例主要来源于各大 AI 社区 🎬，希望这些案例能为您带来启发 💡，为你的灵感加速 🚀。
